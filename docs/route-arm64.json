@@ -1,5 +1,5 @@
 {
-    "meta": 202610071556,
+    "meta": 202610100625,
     "python": {
         "3.11.0a5": "https://www.python.org/ftp/python/3.11.0/python-3.11.0a5-arm64.exe",
         "3.11.0a6": "https://www.python.org/ftp/python/3.11.0/python-3.11.0a6-arm64.exe",
@@ -119,6 +119,7 @@
         "3.15.0b4": "https://www.python.org/ftp/python/3.15.0/python-3.15.0b4-arm64.exe",
         "3.15.0rc1": "https://www.python.org/ftp/python/3.15.0/python-3.15.0rc1-arm64.exe",
         "3.15.0rc2": "https://www.python.org/ftp/python/3.15.0/python-3.15.0rc2-arm64.exe",
-        "3.15.0rc3": "https://www.python.org/ftp/python/3.15.0/python-3.15.0rc3-arm64.exe"
+        "3.15.0rc3": "https://www.python.org/ftp/python/3.15.0/python-3.15.0rc3-arm64.exe",
+        "3.15.0": "https://www.python.org/ftp/python/3.15.0/python-3.15.0-arm64.exe"
     }
 }
